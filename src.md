@@ -44,3 +44,43 @@
 * In terms of：就以下方面而言
 * yet-undiscovered：迄今尚未发现
 * mitigate：减轻，缓解，疏导
+* literal：字面量常量
+* manipulator：操纵符
+* comments：注释
+* argument：实参
+* parameter：形参
+* specifier：说明符
+* compound：复合
+* triviality：平凡性
+* escape character：转义字符
+* punctation：标点
+* unary：一元
+* reinterpret：解释
+* dangling：悬挂的
+* handle：处理
+* robust：健壮的、稳固的、强壮的
+* marco：宏
+* synthesis：合成，综合
+* synthesized：合成的
+* delegate：委托
+* vex：使困惑；使烦恼；使恼怒
+* aggregate：聚合
+* off the ending：尾后
+* off the beginning：首前
+* adaptor：适配器
+* mechanism：机制
+* strategy：策略
+* generic：泛型的
+* predict：谓词
+* nested：嵌套的
+* utility：通常指提供实用功能的工具或库
+* polymorphism：多态
+* instantiate：实例化；例示，举例说明；
+* plural：复数
+* directive：指示
+* volatile：（计算机内存）易失的；易变的；易挥发的；易汽化的；
+* collapse：折叠
+* anonymous：匿名的
+* discriminant：判别式
+* invoke：调用
+* FAQ: Frequently Asked Questions，直译为“**常见问题解答**”。它是一份针对某一主题、产品或服务整理的问答列表，旨在快速解决用户的典型疑问。
